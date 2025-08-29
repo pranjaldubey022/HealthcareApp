@@ -56,32 +56,32 @@ Hospitals can upload details, add doctors, and manage appointments in real time.
 
 
 
-HealthConnect – Healthcare Management System
+HealthConnect – Healthcare Management System-
 Developed an Android application to streamline hospital–patient interactions and digitize appointment management.
 
 Situation/Task: Hospitals often face challenges in managing doctors, facilities, and appointments efficiently.
 
 Action:
 
-Implemented Firebase Authentication for secure login/registration.
+  * Implemented Firebase Authentication for secure login/registration.
 
-Designed hospital dashboard for uploading facilities and multiple doctors.
+  * Designed hospital dashboard for uploading facilities and multiple doctors.
 
-Created patient-side features to browse hospitals and book appointments.
+  * Created patient-side features to browse hospitals and book appointments.
 
 Result: Improved accessibility and hospital–patient coordination by enabling digital appointment booking.
 
 Features:
 
-Secure authentication for patients & hospitals
+  * Secure authentication for patients & hospitals
 
-Hospital dashboard with facilities and doctors
+  * Hospital dashboard with facilities and doctors
 
-Add/view doctors dynamically per hospital
+  * Add/view doctors dynamically per hospital
 
-Appointment booking under specific doctors
+  * Appointment booking under specific doctors
 
-Material Design UI for smooth navigation
+  * Material Design UI for smooth navigation
 
 Tech Stack:
 Java | Android Studio | Firebase Realtime Database | Material Design
