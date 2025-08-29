@@ -23,17 +23,24 @@ Hospitals can upload details, add doctors, and manage appointments in real time.
 ▶️ Usage
 * Patients can:
     Register/login
+  
     View hospitals & facilities
+  
     View doctors under each hospital
+  
     Book appointments & view prescriptions
   
 * Hospitals can:
     Register/login
+  
     Add hospital information
+  
     Add multiple doctors dynamically
+  
     Manage appointments
 
 📸 Screenshots
+
 <img width="362" height="797" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/887a17d4-c24c-451a-8659-3872f7d4e3f6" />
 <img width="365" height="783" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/5117ba00-0f86-455d-9c25-cafd2434c110" />
 <img width="374" height="780" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/6715fe90-0dd5-4152-996b-8186f4a2d80d" />
