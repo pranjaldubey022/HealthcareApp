@@ -1,5 +1,7 @@
 HEALTHCONNECT - Healthcare Management System
+
 📖 Description
+
 HealthConnect is an Android-based Healthcare Management System that simplifies hospital and patient interactions.
 Patients can search hospitals, view doctors and facilities, and book appointments.
 Hospitals can upload details, add doctors, and manage appointments in real time.
